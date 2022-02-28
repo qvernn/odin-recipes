@@ -10,3 +10,12 @@ img {
     height: 400px;
     width: auto;
 }
+
+ul li.odd {
+    background-color: black;
+    color: white;
+}
+
+ul, ol {
+    background-color: green;
+}
